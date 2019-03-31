@@ -1,0 +1,285 @@
+{
+  "files" : {
+    ".backups/2019-03-31 03.21.40.zip" : {
+      "sha1" : "/f5D30Ts2xLq9i9fpEIIFaAqU+0=",
+      "size" : 5385
+    },
+    ".backups/2019-03-31 03.22.40.zip" : {
+      "sha1" : "uJY604lL6QVROujhavkoBCGxdVE=",
+      "size" : 5418
+    },
+    ".backups/2019-03-31 03.23.40.zip" : {
+      "sha1" : "jgp4Rbb+/cfmOOCbBZxYU+ZnMb0=",
+      "size" : 4873
+    },
+    ".backups/2019-03-31 03.26.52.zip" : {
+      "sha1" : "zulCT8garlEKJrr22PiRbUbwG2s=",
+      "size" : 5083
+    },
+    ".backups/2019-03-31 03.27.53.zip" : {
+      "sha1" : "W8+PtCpJ1ig7K355OkA9BYpwjM0=",
+      "size" : 5084
+    },
+    ".backups/2019-03-31 03.28.54.zip" : {
+      "sha1" : "TxwvmI6Z/XE6/wC2wufhnn1H8R0=",
+      "size" : 5066
+    },
+    ".backups/2019-03-31 03.36.06.zip" : {
+      "sha1" : "tq224GMNHPoWL9KORfu5awFW14Y=",
+      "size" : 5741
+    },
+    ".backups/2019-03-31 03.52.21.zip" : {
+      "sha1" : "KRsDUMfICkl4NcTvfjAJXs7RoPE=",
+      "size" : 5741
+    },
+    ".backups/2019-03-31 03.56.58.zip" : {
+      "sha1" : "h9ZqdmI6ySrG+kNdqZsPjRiRe10=",
+      "size" : 5995
+    },
+    ".backups/2019-03-31 04.04.55.zip" : {
+      "sha1" : "OUWInBMmA+Natjpy+z4cmHaC0cA=",
+      "size" : 5995
+    },
+    ".backups/2019-03-31 04.10.58.zip" : {
+      "sha1" : "PaXr3Uz3Y4F8jkIXzlCNwmblX+U=",
+      "size" : 6024
+    },
+    ".backups/2019-03-31 04.11.58.zip" : {
+      "sha1" : "jg/oH4ck7nWUHwkKShJ+d53BJlM=",
+      "size" : 6038
+    },
+    ".backups/2019-03-31 04.12.58.zip" : {
+      "sha1" : "Dy3GK0M990mvfnGt2jFGjF2t0kw=",
+      "size" : 6065
+    },
+    ".backups/2019-03-31 04.13.59.zip" : {
+      "sha1" : "mCPatZy9Ts0Giw9AP183oXqO9YY=",
+      "size" : 6068
+    },
+    ".backups/2019-03-31 04.14.59.zip" : {
+      "sha1" : "OlC3jcpqCF90FbnmG0Kd77VSLhU=",
+      "size" : 6132
+    },
+    ".backups/2019-03-31 04.16.00.zip" : {
+      "sha1" : "ZzJ/9l6+llAtgg7eYYug7aHDZO8=",
+      "size" : 6195
+    },
+    ".backups/2019-03-31 04.17.00.zip" : {
+      "sha1" : "/Ln9Jj+fjbvbSE4Dv1t/ezQbB6M=",
+      "size" : 6176
+    },
+    ".backups/2019-04-01 02.55.02.zip" : {
+      "sha1" : "u4d2Q+UbofmAyoL49Fs0vH8hKhM=",
+      "size" : 5285
+    },
+    ".backups/2019-04-01 02.56.04.zip" : {
+      "sha1" : "e2SwDT/ZzIBTyQzDr1ThWtboaLw=",
+      "size" : 4593
+    },
+    ".backups/2019-04-01 02.59.07.zip" : {
+      "sha1" : "PqSjhQeUTo5s7fr2rFbxP8ei78I=",
+      "size" : 4878
+    },
+    ".backups/2019-04-01 03.00.07.zip" : {
+      "sha1" : "d+VUNxEsIzMNxgC8U5fUjZDSyv0=",
+      "size" : 4878
+    },
+    ".backups/2019-04-01 03.01.08.zip" : {
+      "sha1" : "g+UGqHu6kG+Ny1rm7Q0NscN9hUk=",
+      "size" : 4890
+    },
+    ".backups/2019-04-01 03.02.08.zip" : {
+      "sha1" : "t0qPiYsHXTthNKOoihlhmYzmJqQ=",
+      "size" : 4899
+    },
+    ".backups/2019-04-01 03.03.10.zip" : {
+      "sha1" : "rSMqkV3gImiFFCb1wbxX9NIDmRk=",
+      "size" : 4934
+    },
+    ".backups/2019-04-01 03.04.11.zip" : {
+      "sha1" : "0wyNXyCOH+GbjTLOjLYKz5QOV58=",
+      "size" : 4923
+    },
+    ".backups/2019-04-01 03.05.12.zip" : {
+      "sha1" : "hwLjLfVq1M7VXnDldIvCxoG0Io0=",
+      "size" : 4945
+    },
+    ".backups/2019-04-01 03.06.13.zip" : {
+      "sha1" : "g+ZCuzFOQgSuZxyTjRQI7S7Bxbg=",
+      "size" : 4968
+    },
+    ".backups/2019-04-01 03.07.15.zip" : {
+      "sha1" : "ZnVLNQel9BUfp+V/6KCz2KyN5/8=",
+      "size" : 4978
+    },
+    ".backups/2019-04-01 03.08.17.zip" : {
+      "sha1" : "fZulorqZHZFUKW9MO7nTK2lbYNE=",
+      "size" : 5011
+    },
+    ".backups/2019-04-01 03.51.37.zip" : {
+      "sha1" : "WhP47S5T+PMVfXNuL54x3ZgoyGY=",
+      "size" : 5087
+    },
+    ".backups/2019-04-01 03.52.38.zip" : {
+      "sha1" : "bd/ZNIoJT4NgGnyak5/ydPtRWHk=",
+      "size" : 5179
+    },
+    ".backups/2019-04-01 03.53.39.zip" : {
+      "sha1" : "yKfZ/c5xdJo+1ej3dMWr41foMIg=",
+      "size" : 5087
+    },
+    ".backups/2019-04-01 03.54.39.zip" : {
+      "sha1" : "5IIARqXP7kkszfLJaLZLNk09nqk=",
+      "size" : 5345
+    },
+    ".backups/2019-04-01 03.55.41.zip" : {
+      "sha1" : "1UYQ1kF+YX+LVwVBAYXqoAJM2zU=",
+      "size" : 5361
+    },
+    ".backups/2019-04-01 03.56.55.zip" : {
+      "sha1" : "aAokpABvWt5LHMW1VIBjRFx2l2M=",
+      "size" : 5424
+    },
+    ".backups/2019-04-01 03.57.56.zip" : {
+      "sha1" : "ZwtK6FIJZQ3JK5PFd+iw07cSY5Y=",
+      "size" : 5447
+    },
+    ".backups/2019-04-01 03.58.56.zip" : {
+      "sha1" : "z9XPJXzbZgH8KknGa29Sb03MKfU=",
+      "size" : 5456
+    },
+    ".backups/2019-04-01 03.59.57.zip" : {
+      "sha1" : "Zrc3RNthzElukohA4pe/LKrAg48=",
+      "size" : 5507
+    },
+    ".backups/2019-04-01 04.00.58.zip" : {
+      "sha1" : "WJ+Cw4UWYC1dgS6VxXbF7WOZnoI=",
+      "size" : 5511
+    },
+    ".backups/2019-04-01 04.08.02.zip" : {
+      "sha1" : "52k58Zyv6TFOawT0bjYBdaftp18=",
+      "size" : 5573
+    },
+    ".backups/2019-04-01 04.09.22.zip" : {
+      "sha1" : "ERLDBbPxhpUb4NrGwRORkgfcfKU=",
+      "size" : 5127
+    },
+    ".backups/2019-04-01 04.10.22.zip" : {
+      "sha1" : "Q2d4mn6Cl4IZFsFaM1COdhsPUeg=",
+      "size" : 5132
+    },
+    ".gitignore" : {
+      "sha1" : "di01dAwpT32/zIKnCjHn52yL4Wg=",
+      "size" : 120
+    },
+    ".yarnignore" : {
+      "sha1" : "SjOjLrZ6naANd4Um5YZ+asHhTTg=",
+      "size" : 53
+    },
+    "build/Draft.css" : {
+      "sha1" : "EAhzGU2fx321Jor9Yku/eL05a9w=",
+      "size" : 4279
+    },
+    "build/index.js" : {
+      "sha1" : "7ZB+LI70VyehFtfbor/ClNMVtV8=",
+      "size" : 938750
+    },
+    "build/react-dom.development.js" : {
+      "sha1" : "nQs4dfjb25VVDNzTtFfYbuF1KQY=",
+      "size" : 641575
+    },
+    "build/react.development.js" : {
+      "sha1" : "2q2WObxZivmxSruU7BgBgScrCw0=",
+      "size" : 59086
+    },
+    "build/standalone.js" : {
+      "sha1" : "u/SdhIlWrJGVpB46QqnDODUw/p0=",
+      "size" : 72337
+    },
+    "build/style.css" : {
+      "sha1" : "RJmszaPYXj2PnF6BxLHsPxRgrS4=",
+      "size" : 5171
+    },
+    "code/App.tsx" : {
+      "sha1" : "4MItCLgUsIN3Wnmn3/WDznpUNJk=",
+      "size" : 1306
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "code/Examples.tsx" : {
+      "sha1" : "lUV35hS3rcE/Vwe/FKuuRgzCdDc=",
+      "size" : 1396
+    },
+    "design/assets/foil.mp4" : {
+      "sha1" : "/nyRCn96n9Km/mSwKcYNqmfCVcc=",
+      "size" : 8120470
+    },
+    "design/document.json" : {
+      "sha1" : "05aGEcos99ILAQMkWdydQp7nREQ=",
+      "size" : 44385
+    },
+    "design/images/1kHPWq264oVV4P8pIge761RaPQ.png" : {
+      "sha1" : "1kHPWq264oVV4P8pIge761Ra+PQ=",
+      "size" : 21458
+    },
+    "design/images/ER6rsgXFG8pV6DLKO4qtYOO8Hc.png" : {
+      "sha1" : "ER6rsgXFG8pV6D+LKO4qtYOO8Hc=",
+      "size" : 12789
+    },
+    "design/images/MC9FPp7rVmdopQHDTAI0SfxGC4g.png" : {
+      "sha1" : "MC9FPp7rVmdopQHDTAI0SfxGC4g=",
+      "size" : 458246
+    },
+    "design/images/nQVikeWzN3krRCJEqGg19MdLmY.png" : {
+      "sha1" : "nQVik+eWzN3krRCJEqGg19MdLmY=",
+      "size" : 514829
+    },
+    "design/images/VwDkQtGNBbhOGUvyKroC1ECr96w.png" : {
+      "sha1" : "VwDkQtGNBbhOGUvyKroC1ECr96w=",
+      "size" : 854425
+    },
+    "images/cursors/touch-active.png" : {
+      "sha1" : "fYes+h/mpvrQ2z1kPVs0zEFuq5M=",
+      "size" : 2965
+    },
+    "images/cursors/touch-active@2x.png" : {
+      "sha1" : "IrXS4p49TPUF4VVjiAv5LzffmHE=",
+      "size" : 7792
+    },
+    "images/cursors/touch.png" : {
+      "sha1" : "ZR96UUIDd4QXZOPSsRSgZvDjWb4=",
+      "size" : 2912
+    },
+    "images/cursors/touch@2x.png" : {
+      "sha1" : "RiwOB1M8Lzb2/NU+mdjR1VBhicM=",
+      "size" : 8384
+    },
+    "index.html" : {
+      "sha1" : "CDx5pPMYYaoEp+QdlqbuUZGCea0=",
+      "size" : 977755
+    },
+    "package.json" : {
+      "sha1" : "t4ZHI/smJ10ZaX7bcjSwAeBEbqs=",
+      "size" : 444
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "aDUBWFOOLiSHozHi3fLJW+KdiYY=",
+      "size" : 277
+    },
+    "yarn-error.log" : {
+      "sha1" : "vGKt4qiZwhw49uv8Z4CiubQxTVk=",
+      "size" : 1787
+    },
+    "yarn.lock" : {
+      "sha1" : "wJCMFmH01fdFkKrw6GdKg3IDb+U=",
+      "size" : 9530
+    }
+  },
+  "uuid" : "0F086BC7-83C2-4623-84CB-C3D530EC8684"
+}
